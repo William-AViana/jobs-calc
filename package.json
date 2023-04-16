@@ -14,7 +14,7 @@
     "ejs": "^3.1.8",
     "express": "^4.17.3",
     "sqlite": "^4.0.23",
-    "sqlite3": "^5.0.3"
+    "sqlite3": "^5.1.5"
   },
   "devDependencies": {
     "nodemon": "^2.0.15"
